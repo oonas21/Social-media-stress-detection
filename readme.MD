@@ -7,3 +7,5 @@
 - Learn and compare different embeddings and machine learning models for stress detection (experiements.ipynb)
 - Visualize data and key findings (visualizations.ipunb)
 
+### Run
+- 
