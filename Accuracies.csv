@@ -1,0 +1,17 @@
+dataset_split,model,representation,accuracy
+train: Reddit / test: Twitter,MultinomialNB,TF-IDF,0.6674287891778603
+train: Twitter / test: Reddit,MultinomialNB,TF-IDF,0.8000697431128676
+train/test 80/20 split,MultinomialNB,TF-IDF,0.8109947643979057
+train: Reddit / test: Twitter,Logistic Regression,TF-IDF,0.7370677336381823
+train: Reddit / test: Twitter,SVM,TF-IDF,0.7304944269791369
+train: Twitter / test: Reddit,Logistic Regression,TF-IDF,0.7927467162617692
+train: Twitter / test: Reddit,SVM,TF-IDF,0.8029757061490178
+train/test 80/20 split,Logistic Regression,TF-IDF,0.8667539267015707
+train/test 80/20 split,SVM,TF-IDF,0.881413612565445
+train: Reddit / test: Twitter,Logistic Regression,Doc2Vec,0.6133180908831095
+train: Reddit / test: Twitter,SVM,Doc2Vec,0.5997904163094218
+train: Twitter / test: Reddit,Logistic Regression,Doc2Vec,0.7718237824014879
+train: Twitter / test: Reddit,SVM,Doc2Vec,0.5500406834825061
+train/test 80/20 split,Logistic Regression,Doc2Vec,0.7473821989528796
+train/test 80/20 split,SVM,Doc2Vec,0.7832460732984293
+train/test 80/20 split,Transformer,Tokenizer,0.9683246073298429
