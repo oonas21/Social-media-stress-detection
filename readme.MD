@@ -15,3 +15,7 @@ The following software must be installed to run the notebooks
 - matplotlib.pyplot
 - sklearn
 - gensim
+
+
+### Run
+tba
