@@ -7,5 +7,11 @@
 - Learn and compare different embeddings and machine learning models for stress detection (experiements.ipynb)
 - Visualize data and key findings (visualizations.ipunb)
 
-### Run
-- 
+### Required software
+The following software must be installed to run the notebooks
+- python 3
+- numpy
+- pandas
+- matplotlib.pyplot
+- sklearn
+- gensim
