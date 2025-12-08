@@ -5,7 +5,8 @@
 ### Objectives
 - Process messy text data (data_processing.ibynb)
 - Learn and compare different embeddings and machine learning models for stress detection (experiements.ipynb)
-- Visualize data and key findings (visualizations.ipunb)
+- Visualize data and key findings (visualizations.ipynb)
+- Visualize accuracies of the models (visualizations_results.ipynb)
 
 ### Required software
 The following software must be installed to run the notebooks
@@ -15,6 +16,7 @@ The following software must be installed to run the notebooks
 - matplotlib.pyplot
 - sklearn
 - gensim
+- nltk
 
 
 ### Run
